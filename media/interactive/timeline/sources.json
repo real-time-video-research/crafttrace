@@ -1,0 +1,19 @@
+{
+  "sourceVideo": "public/media/result-original-full.m4v",
+  "duration": 120.625,
+  "reference": "Max Sneak the-last-morning-cut-aware/data/scene_map.json and shot_parts.json",
+  "thumbnails": {
+    "shot-01.webp": 6,
+    "shot-02.webp": 20,
+    "shot-03.webp": 31,
+    "shot-04.webp": 44,
+    "shot-05.webp": 72,
+    "shot-06.webp": 79,
+    "shot-07.webp": 98,
+    "shot-08.webp": 106
+  },
+  "audit": "Thumbnails were sampled directly from the homepage original video. Character spans follow visual review of its cut-aware parts, including scene-only inserts, the single-character shore sequence, and the closing title.",
+  "interiorEnd": 35.208333,
+  "blondOutdoorEntrance": 63.208333,
+  "closingTitlesStart": 115.625
+}

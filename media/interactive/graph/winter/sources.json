@@ -1,0 +1,14 @@
+{
+  "source": "Max Sneak / the-last-morning-cut-aware / media/mock-updates/winter-season",
+  "recipe": "Winter season transfer",
+  "scene": "scenes/global-scene.png",
+  "clips": {
+    "shot-04": "shots/shot-04-part-03.mp4",
+    "shot-05": "shots/shot-05-part-04.mp4",
+    "shot-06": "shots/shot-06-part-01.mp4",
+    "shot-07": "shots/shot-07-part-01.mp4",
+    "shot-08": "shots/shot-08-part-02.mp4"
+  },
+  "scope": "Outdoor Shot 04\u201308 only; indoor Shot 01\u201303 unchanged. Before and after clips both use the existing Black Warrior identity.",
+  "encoding": "H.264 640x360 24fps, muted, original segment duration, faststart"
+}
